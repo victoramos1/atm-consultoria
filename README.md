@@ -1,5 +1,6 @@
 <h1>Projeto: ATM Consultoria</h1>
 
+![App em funcionamento](imagens/atm-consultoria.gif)
 
 <h2>Descrição do projeto</h2>
 
